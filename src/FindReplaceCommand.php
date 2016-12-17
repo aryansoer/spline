@@ -1,4 +1,4 @@
-<?php namespace Ecology;
+<?php namespace Spline;
 
 use ZipArchive;
 use RuntimeException;
