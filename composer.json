@@ -1,5 +1,13 @@
 {
+    "name": "ecology",
+    "description": "Ecology file processing.",
     "require": {
+        "ext-zip": "*",
         "symfony/console": "~2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Ecology\\": "src"
+        }
     }
 }
